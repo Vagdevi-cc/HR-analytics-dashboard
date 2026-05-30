@@ -24,3 +24,6 @@ Interactive HR Analytics Dashboard developed in Power BI to analyze employee att
 ## Files Included
 - Power BI Dashboard (.pbix)
 - Dashboard Visuals
+
+- <img width="1111" height="677" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/ed399b28-3a82-4f24-95ed-90cb5094c536" />
+
